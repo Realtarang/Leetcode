@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Realtarang/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Realtarang/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Realtarang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Realtarang/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Realtarang/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Realtarang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Realtarang/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
