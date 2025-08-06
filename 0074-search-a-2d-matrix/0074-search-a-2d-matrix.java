@@ -1,10 +1,18 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        if (matrix == null || matrix.length == 0 || matrix[0].length == 0) return false;
+        if (matrix == null || matrix.length == 0 || matrix[0].length == 0) 
+        {
+            return false;
+        }
+
         int i = binary(matrix, target);
-        if (i == 1) {
+
+        if (i == 1) 
+        {
             return true;
-        } else {
+        } 
+        else 
+        {
             return false;
         }
     }
@@ -14,15 +22,20 @@ class Solution {
         int high = matrix.length - 1;
         int mid;
 
-        while (low <= high) {
+        while (low <= high) 
+        {
             mid = low + (high - low) / 2;
-            if (matrix[mid][0] == target) {
+
+            if (matrix[mid][0] == target) 
+            {
                 return 1;
             }
-            if (matrix[mid][0] < target) {
+            if (matrix[mid][0] < target) 
+            {
                 low = mid + 1;
             }
-            if (matrix[mid][0] > target) {
+            if (matrix[mid][0] > target) 
+            {
                 high = mid - 1;
             }
         }
@@ -34,14 +47,18 @@ class Solution {
         int z = matrix[0].length - 1;
         int y;
 
-        while (x <= z) {
+        while (x <= z) 
+        {
             y = x + (z - x) / 2;
-            if (matrix[row][y] == target) {
+            if (matrix[row][y] == target) 
+            {
                 return 1;
             }
-            if (matrix[row][y] < target) {
+            if (matrix[row][y] < target) 
+            {
                 x = y + 1;
-            } else {
+            } else 
+            {
                 z = y - 1;
             }
         }
