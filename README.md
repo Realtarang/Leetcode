@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Realtarang/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Realtarang/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Realtarang/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Realtarang/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Realtarang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Realtarang/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Realtarang/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Realtarang/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Realtarang/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Realtarang/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Realtarang/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Realtarang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Realtarang/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Realtarang/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
