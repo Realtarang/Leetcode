@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Realtarang/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Realtarang/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Realtarang/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/Realtarang/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Realtarang/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Realtarang/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Realtarang/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Realtarang/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
