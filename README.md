@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Realtarang/Leetcode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Realtarang/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Recursion
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Realtarang/Leetcode/tree/master/0058-length-of-last-word) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Realtarang/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Realtarang/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Realtarang/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Stack
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Realtarang/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Realtarang/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Prefix Sum
 |  |
 | ------- |
