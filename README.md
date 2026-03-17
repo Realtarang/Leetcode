@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Realtarang/Leetcode/tree/master/0724-find-pivot-index) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Realtarang/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Realtarang/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Realtarang/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Realtarang/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Realtarang/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Realtarang/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Realtarang/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Realtarang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Realtarang/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Realtarang/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Realtarang/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Realtarang/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Realtarang/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Realtarang/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Realtarang/Leetcode/tree/master/0011-container-with-most-water) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Realtarang/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## String
 |  |
 | ------- |
