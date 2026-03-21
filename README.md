@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Realtarang/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Realtarang/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Realtarang/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Realtarang/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Realtarang/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Realtarang/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Realtarang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Realtarang/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Realtarang/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Realtarang/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Realtarang/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Realtarang/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Realtarang/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
 |  |
 | ------- |
