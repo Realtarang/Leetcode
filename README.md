@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Realtarang/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Realtarang/Leetcode/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/Realtarang/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Realtarang/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Realtarang/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Realtarang/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Realtarang/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Realtarang/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Realtarang/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1871-jump-game-vii](https://github.com/Realtarang/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Realtarang/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Realtarang/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Realtarang/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -252,12 +254,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Realtarang/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1871-jump-game-vii](https://github.com/Realtarang/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Realtarang/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Realtarang/Leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Realtarang/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1871-jump-game-vii](https://github.com/Realtarang/Leetcode/tree/master/1871-jump-game-vii) |
 | [2906-construct-product-matrix](https://github.com/Realtarang/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Realtarang/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3714-longest-balanced-substring-ii](https://github.com/Realtarang/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
