@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Realtarang/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Realtarang/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Realtarang/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Realtarang/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3488-closest-equal-element-queries](https://github.com/Realtarang/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Realtarang/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Realtarang/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1622-fancy-sequence](https://github.com/Realtarang/Leetcode/tree/master/1622-fancy-sequence) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Realtarang/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/Realtarang/Leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
