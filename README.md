@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Realtarang/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Realtarang/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/Realtarang/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
+| [2540-minimum-common-value](https://github.com/Realtarang/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Realtarang/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Realtarang/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Realtarang/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Realtarang/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0874-walking-robot-simulation](https://github.com/Realtarang/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Realtarang/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2540-minimum-common-value](https://github.com/Realtarang/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Realtarang/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Realtarang/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Realtarang/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Realtarang/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Realtarang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Realtarang/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2540-minimum-common-value](https://github.com/Realtarang/Leetcode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Realtarang/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Realtarang/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Realtarang/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Realtarang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2540-minimum-common-value](https://github.com/Realtarang/Leetcode/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Realtarang/Leetcode/tree/master/3488-closest-equal-element-queries) |
 ## Sorting
 |  |
