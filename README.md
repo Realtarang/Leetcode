@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1622-fancy-sequence](https://github.com/Realtarang/Leetcode/tree/master/1622-fancy-sequence) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Realtarang/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Realtarang/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Realtarang/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3830-find-closest-person](https://github.com/Realtarang/Leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Realtarang/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Realtarang/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Realtarang/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Realtarang/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Realtarang/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Realtarang/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
