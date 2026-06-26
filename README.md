@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Realtarang/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Realtarang/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Realtarang/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Realtarang/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Realtarang/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Realtarang/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Realtarang/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/Realtarang/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3714-longest-balanced-substring-ii](https://github.com/Realtarang/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Realtarang/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Realtarang/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Realtarang/Leetcode/tree/master/0169-majority-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Realtarang/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Realtarang/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Realtarang/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Realtarang/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Realtarang/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3714-longest-balanced-substring-ii](https://github.com/Realtarang/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Realtarang/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Realtarang/Leetcode/tree/master/1622-fancy-sequence) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Realtarang/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -334,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Realtarang/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Realtarang/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
