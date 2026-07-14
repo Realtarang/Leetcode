@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Realtarang/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Realtarang/Leetcode/tree/master/0053-maximum-subarray) |
 | [0396-rotate-function](https://github.com/Realtarang/Leetcode/tree/master/0396-rotate-function) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Realtarang/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Realtarang/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Realtarang/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3620-network-recovery-pathways](https://github.com/Realtarang/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Realtarang/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Realtarang/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Realtarang/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Realtarang/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Realtarang/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Realtarang/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Realtarang/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Realtarang/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Realtarang/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Realtarang/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/Realtarang/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3620-network-recovery-pathways](https://github.com/Realtarang/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -366,5 +371,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Realtarang/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3620-network-recovery-pathways](https://github.com/Realtarang/Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
