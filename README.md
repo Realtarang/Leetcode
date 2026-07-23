@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Realtarang/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Realtarang/Leetcode/tree/master/0724-find-pivot-index) |
 | [0874-walking-robot-simulation](https://github.com/Realtarang/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0931-minimum-falling-path-sum](https://github.com/Realtarang/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Realtarang/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1340-jump-game-v](https://github.com/Realtarang/Leetcode/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Realtarang/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Realtarang/Leetcode/tree/master/0053-maximum-subarray) |
 | [0396-rotate-function](https://github.com/Realtarang/Leetcode/tree/master/0396-rotate-function) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Realtarang/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/Realtarang/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Realtarang/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Realtarang/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Realtarang/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Realtarang/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Realtarang/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Realtarang/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Realtarang/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
