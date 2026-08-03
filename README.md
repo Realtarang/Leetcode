@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Realtarang/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1340-jump-game-v](https://github.com/Realtarang/Leetcode/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Realtarang/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/Realtarang/Leetcode/tree/master/1406-stone-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Realtarang/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Realtarang/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Realtarang/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Realtarang/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/Realtarang/Leetcode/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/Realtarang/Leetcode/tree/master/1622-fancy-sequence) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Realtarang/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Realtarang/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Realtarang/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Realtarang/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Realtarang/Leetcode/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/Realtarang/Leetcode/tree/master/1406-stone-game-iii) |
 | [1871-jump-game-vii](https://github.com/Realtarang/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Realtarang/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Realtarang/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -406,4 +409,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Realtarang/Leetcode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Realtarang/Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Realtarang/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Realtarang/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
