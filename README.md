@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Realtarang/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Realtarang/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Realtarang/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/Realtarang/Leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Realtarang/Leetcode/tree/master/0155-min-stack) |
 | [1622-fancy-sequence](https://github.com/Realtarang/Leetcode/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Realtarang/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
