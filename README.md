@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Realtarang/Leetcode/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/Realtarang/Leetcode/tree/master/1622-fancy-sequence) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Realtarang/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Realtarang/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Realtarang/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Realtarang/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Realtarang/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Realtarang/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Realtarang/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Realtarang/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Realtarang/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Realtarang/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Realtarang/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Realtarang/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Realtarang/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Realtarang/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Realtarang/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
 |  |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Realtarang/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Realtarang/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
 |  |
@@ -418,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Realtarang/Leetcode/tree/master/1406-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Realtarang/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
