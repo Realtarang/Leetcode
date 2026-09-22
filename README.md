@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Realtarang/Leetcode/tree/master/0207-course-schedule) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Realtarang/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Realtarang/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Realtarang/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Realtarang/Leetcode/tree/master/0207-course-schedule) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Realtarang/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Realtarang/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Realtarang/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -392,12 +394,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Realtarang/Leetcode/tree/master/0207-course-schedule) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Realtarang/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/Realtarang/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3620-network-recovery-pathways](https://github.com/Realtarang/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Realtarang/Leetcode/tree/master/0207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/Realtarang/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -426,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Realtarang/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Realtarang/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
